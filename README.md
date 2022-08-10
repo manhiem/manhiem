@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Gamer, Game Developer, Mixed Reality Enthusiast</h3>
 
-<div align="center">![](https://github.com/manhiem/manhiem/blob/main/giphy.gif)</div>
+<div align="center"><img src="[https://github-profile-trophy.vercel.app/?username=manhiem](https://github.com/manhiem/manhiem/blob/main/giphy.gif)" alt="hi-giphy" /></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhiem" alt="manhiem" /></a> </p>
 
