@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Gamer, Game Developer, Mixed Reality Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhiem&label=Profile%20views&color=0e75b6&style=flat" alt="manhiem" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhiem" alt="manhiem" /></a> </p>
 
 - 🔭 I’m currently working on **Unity 3D, Photon Networking, and Environment Design**
 
@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhiem&show_icons=true&locale=en&layout=compact" alt="manhiem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhiem&show_icons=true&locale=en" alt="manhiem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhiem&" alt="manhiem" /></p>
