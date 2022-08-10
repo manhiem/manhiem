@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhiem](https://github.com/manhiem)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/company/stuff-college-doesn-t-teach-u/?viewAsMember=true](https://www.linkedin.com/company/stuff-college-doesn-t-teach-u/)
+- 📝 I regularly write articles on [https://www.linkedin.com/company/stuff-college-doesn-t-teach-u/](https://www.linkedin.com/company/stuff-college-doesn-t-teach-u/)
 
 - 💬 Ask me about **Programming Algorithms, Video Games 😁 and Anime 🐱‍🐉**
 
